@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AIFollower.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\khusn\Documents\Unreal Projects\AIFollower\AIFollower\Intermediate\Build\Win64\AIFollowerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\khusn\Documents\Unreal Projects\AIFollower\AIFollower\Intermediate\Build\Win64\UE4Editor\Development\AIFollower\AIFollower.cpp.obj"
+"C:\Users\khusn\Documents\Unreal Projects\AIFollower\AIFollower\Intermediate\Build\Win64\UE4Editor\Development\AIFollower\AIFollowerCharacter.cpp.obj"
+"C:\Users\khusn\Documents\Unreal Projects\AIFollower\AIFollower\Intermediate\Build\Win64\UE4Editor\Development\AIFollower\AIFollowerGameMode.cpp.obj"
+"C:\Users\khusn\Documents\Unreal Projects\AIFollower\AIFollower\Intermediate\Build\Win64\UE4Editor\Development\AIFollower\AIFollower.init.gen.cpp.obj"
+"C:\Users\khusn\Documents\Unreal Projects\AIFollower\AIFollower\Intermediate\Build\Win64\UE4Editor\Development\AIFollower\AIFollowerCharacter.gen.cpp.obj"
+"C:\Users\khusn\Documents\Unreal Projects\AIFollower\AIFollower\Intermediate\Build\Win64\UE4Editor\Development\AIFollower\AIFollowerGameMode.gen.cpp.obj"
+"C:\Users\khusn\Documents\Unreal Projects\AIFollower\AIFollower\Intermediate\Build\Win64\UE4Editor\Development\AIFollower\Default.rc2.res"
+/OUT:"C:\Users\khusn\Documents\Unreal Projects\AIFollower\AIFollower\Intermediate\Build\Win64\UE4Editor\Development\AIFollower\UE4Editor-AIFollower.lib"

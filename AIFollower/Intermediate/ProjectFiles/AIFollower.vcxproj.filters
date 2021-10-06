@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AIFollower.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{872AD880-540A-4AE6-9CCF-548F2BF75E5D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AIFollower.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AIFollowerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D3A4858C-39F5-4D02-84CF-3435F4AE8103}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AIFollower">
+      <UniqueIdentifier>{66BCBA64-66D3-4611-8504-54956A640620}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AIFollower\AIFollower.Build.cs">
+      <Filter>Source\AIFollower</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AIFollower\AIFollower.cpp">
+      <Filter>Source\AIFollower</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIFollower\AIFollower.h">
+      <Filter>Source\AIFollower</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIFollower\AIFollowerCharacter.cpp">
+      <Filter>Source\AIFollower</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIFollower\AIFollowerCharacter.h">
+      <Filter>Source\AIFollower</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIFollower\AIFollowerGameMode.cpp">
+      <Filter>Source\AIFollower</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIFollower\AIFollowerGameMode.h">
+      <Filter>Source\AIFollower</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

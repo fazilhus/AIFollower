@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AIFollower",
+			"Path": "C:\\Users\\khusn\\Documents\\Unreal Projects\\AIFollower\\AIFollower\\Source\\AIFollower.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AIFollowerEditor",
+			"Path": "C:\\Users\\khusn\\Documents\\Unreal Projects\\AIFollower\\AIFollower\\Source\\AIFollowerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

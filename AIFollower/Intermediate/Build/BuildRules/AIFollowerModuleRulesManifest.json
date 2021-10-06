@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\khusn\\Documents\\Unreal Projects\\AIFollower\\AIFollower\\Source\\AIFollower\\AIFollower.Build.cs",
+		"C:\\Users\\khusn\\Documents\\Unreal Projects\\AIFollower\\AIFollower\\Source\\AIFollower.Target.cs",
+		"C:\\Users\\khusn\\Documents\\Unreal Projects\\AIFollower\\AIFollower\\Source\\AIFollowerEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.0"
+}
