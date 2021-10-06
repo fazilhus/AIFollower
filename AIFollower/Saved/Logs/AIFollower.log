@@ -2632,3 +2632,181 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.06-13.23.58:322][256]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.014
 [2021.10.06-13.24.55:443][428]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
 [2021.10.06-13.24.55:444][428]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.06-13.27.49:261][ 42]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.06-13.27.49:261][ 42]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.06-13.27.50:704][102]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/AI/NPC/Follower_BT.Follower_BT
+[2021.10.06-13.29.05:178][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/Follower_BT" FILE="../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_BT.uasset" SILENT=true
+[2021.10.06-13.29.05:181][614]LogSavePackage: Moving '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/Follower_BT2946CDFF439F4F4B206855967DEDD42C.tmp' to '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_BT.uasset'
+[2021.10.06-13.29.05:199][614]AssetCheck: New page: Asset Save: Follower_BT
+[2021.10.06-13.29.05:199][614]LogContentValidation: Display: Validating BehaviorTree /Game/AI/NPC/Follower_BT.Follower_BT
+[2021.10.06-13.29.20:523][781]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.10.06-13.29.25:298][ 62]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.10.06-13.29.25:298][ 62]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/NPC/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2021.10.06-13.29.25:551][ 62]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/AI/NPC/BTTask_BlueprintBase_New.
+[2021.10.06-13.31.04:711][583]LogSavePackage: Moving '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/BTTask_BlueprintBase_New717AC834406C0760F28D08B710B68188.tmp' to '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/BTTask_BlueprintBase_New.uasset'
+[2021.10.06-13.31.04:722][583]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/NPC/BTTask_BlueprintBase_New.
+[2021.10.06-13.31.04:730][583]AssetCheck: New page: Asset Save: BTTask_BlueprintBase_New
+[2021.10.06-13.31.04:730][583]LogContentValidation: Display: Validating Blueprint /Game/AI/NPC/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2021.10.06-13.31.08:883][828]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.10.06-13.31.56:464][467]LogSavePackage: Moving '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/BTTask_BlueprintBase_New03FC140247D74FDCA3D229B342DEFC03.tmp' to '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/BTTask_BlueprintBase_New.uasset'
+[2021.10.06-13.31.56:486][467]AssetCheck: New page: Asset Save: BTTask_BlueprintBase_New
+[2021.10.06-13.31.56:486][467]LogContentValidation: Display: Validating Blueprint /Game/AI/NPC/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2021.10.06-13.33.46:696][858]LogSavePackage: Moving '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/BTTask_BlueprintBase_New022AC6C644BB4359FE09189E64027AB6.tmp' to '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/BTTask_BlueprintBase_New.uasset'
+[2021.10.06-13.33.46:713][858]AssetCheck: New page: Asset Save: BTTask_BlueprintBase_New
+[2021.10.06-13.33.46:713][858]LogContentValidation: Display: Validating Blueprint /Game/AI/NPC/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2021.10.06-13.33.47:721][916]BlueprintLog: New page: Compile BTTask_BlueprintBase_New
+[2021.10.06-13.33.47:746][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.10.06-13.33.49:362][ 11]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.10.06-13.33.49:362][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.06-13.34.05:478][969]LogContentBrowser: Attempting asset rename: BTTask_BlueprintBase_New -> SelectPlayerLocation
+[2021.10.06-13.34.05:499][969]LogMetaData: Removing '/Game/AI/NPC/SelectPlayerLocation.SKEL_SelectPlayerLocation_C' ref from Metadata '/Game/AI/NPC/BTTask_BlueprintBase_New.PackageMetaData'
+[2021.10.06-13.34.05:499][969]LogMetaData: Removing '/Game/AI/NPC/SelectPlayerLocation.SelectPlayerLocation_C' ref from Metadata '/Game/AI/NPC/BTTask_BlueprintBase_New.PackageMetaData'
+[2021.10.06-13.34.05:499][969]LogMetaData: Removing '/Game/AI/NPC/SelectPlayerLocation.SKEL_SelectPlayerLocation_C:ReceiveExecuteAI' ref from Metadata '/Game/AI/NPC/BTTask_BlueprintBase_New.PackageMetaData'
+[2021.10.06-13.34.05:499][969]LogMetaData: Removing '/Game/AI/NPC/SelectPlayerLocation.SelectPlayerLocation_C:ReceiveExecuteAI' ref from Metadata '/Game/AI/NPC/BTTask_BlueprintBase_New.PackageMetaData'
+[2021.10.06-13.34.05:522][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/SelectPlayerLocation" FILE="../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/SelectPlayerLocation.uasset" SILENT=true
+[2021.10.06-13.34.05:528][969]LogSavePackage: Moving '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/SelectPlayerLocation89FFC2BE4A80746D6B246AA63A6858EB.tmp' to '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/SelectPlayerLocation.uasset'
+[2021.10.06-13.34.05:606][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.10.06-13.34.05:631][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.10.06-13.34.05:651][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.10.06-13.34.05:676][969]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/NPC/SelectPlayerLocation.
+[2021.10.06-13.34.05:684][969]AssetCheck: New page: Asset Save: SelectPlayerLocation
+[2021.10.06-13.34.05:684][969]LogContentValidation: Display: Validating Blueprint /Game/AI/NPC/SelectPlayerLocation.SelectPlayerLocation
+[2021.10.06-13.34.24:943][987]LogContentBrowser: Attempting asset rename: SelectPlayerLocation -> Select_Player_Point
+[2021.10.06-13.34.24:956][987]LogMetaData: Removing '/Game/AI/NPC/Select_Player_Point.Select_Player_Point_C' ref from Metadata '/Game/AI/NPC/SelectPlayerLocation.PackageMetaData'
+[2021.10.06-13.34.24:956][987]LogMetaData: Removing '/Game/AI/NPC/Select_Player_Point.Select_Player_Point_C:ReceiveExecuteAI' ref from Metadata '/Game/AI/NPC/SelectPlayerLocation.PackageMetaData'
+[2021.10.06-13.34.24:956][987]LogMetaData: Removing '/Game/AI/NPC/Select_Player_Point.SKEL_Select_Player_Point_C' ref from Metadata '/Game/AI/NPC/SelectPlayerLocation.PackageMetaData'
+[2021.10.06-13.34.24:956][987]LogMetaData: Removing '/Game/AI/NPC/Select_Player_Point.SKEL_Select_Player_Point_C:ReceiveExecuteAI' ref from Metadata '/Game/AI/NPC/SelectPlayerLocation.PackageMetaData'
+[2021.10.06-13.34.24:979][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/Select_Player_Point" FILE="../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Select_Player_Point.uasset" SILENT=true
+[2021.10.06-13.34.24:984][987]LogSavePackage: Moving '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/Select_Player_Point97CDF4BF491DABF2DD3978BBACD3F3BD.tmp' to '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Select_Player_Point.uasset'
+[2021.10.06-13.34.25:040][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.10.06-13.34.25:063][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.10.06-13.34.25:076][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.10.06-13.34.25:098][987]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/NPC/Select_Player_Point.
+[2021.10.06-13.34.25:105][987]AssetCheck: New page: Asset Save: Select_Player_Point
+[2021.10.06-13.34.25:105][987]LogContentValidation: Display: Validating Blueprint /Game/AI/NPC/Select_Player_Point.Select_Player_Point
+[2021.10.06-13.35.04:562][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/Follower_BT" FILE="../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_BT.uasset" SILENT=true
+[2021.10.06-13.35.04:565][172]LogSavePackage: Moving '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/Follower_BTF879F2F442CC4CFF4F71D9B0398D4ABC.tmp' to '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_BT.uasset'
+[2021.10.06-13.35.04:570][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/Follower_BB" FILE="../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_BB.uasset" SILENT=true
+[2021.10.06-13.35.04:571][172]LogSavePackage: Moving '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/Follower_BB88C2C5914209B9D94AD524B72E1BF559.tmp' to '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_BB.uasset'
+[2021.10.06-13.35.04:583][172]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.06-13.35.04:583][172]LogContentValidation: Display: Validating BlackboardData /Game/AI/NPC/Follower_BB.Follower_BB
+[2021.10.06-13.35.04:583][172]LogContentValidation: Display: Validating BehaviorTree /Game/AI/NPC/Follower_BT.Follower_BT
+[2021.10.06-13.35.09:819][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/Follower_BT" FILE="../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_BT.uasset" SILENT=true
+[2021.10.06-13.35.09:821][481]LogSavePackage: Moving '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/Follower_BT5E6A19F040EFA32024559CA3C1237036.tmp' to '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_BT.uasset'
+[2021.10.06-13.35.09:836][481]AssetCheck: New page: Asset Save: Follower_BT
+[2021.10.06-13.35.09:836][481]LogContentValidation: Display: Validating BehaviorTree /Game/AI/NPC/Follower_BT.Follower_BT
+[2021.10.06-13.35.49:317][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/Follower_BT" FILE="../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_BT.uasset" SILENT=true
+[2021.10.06-13.35.49:320][145]LogSavePackage: Moving '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/Follower_BT54EFAA894541B11419C3BBBCEA5FAB6D.tmp' to '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_BT.uasset'
+[2021.10.06-13.35.49:336][145]AssetCheck: New page: Asset Save: Follower_BT
+[2021.10.06-13.35.49:336][145]LogContentValidation: Display: Validating BehaviorTree /Game/AI/NPC/Follower_BT.Follower_BT
+[2021.10.06-13.36.11:825][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/Follower_BT" FILE="../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_BT.uasset" SILENT=true
+[2021.10.06-13.36.11:828][415]LogSavePackage: Moving '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/Follower_BT12982A534C297E6C899784A3AA1F243A.tmp' to '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_BT.uasset'
+[2021.10.06-13.36.11:845][415]AssetCheck: New page: Asset Save: Follower_BT
+[2021.10.06-13.36.11:845][415]LogContentValidation: Display: Validating BehaviorTree /Game/AI/NPC/Follower_BT.Follower_BT
+[2021.10.06-13.36.14:810][476]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.10.06-13.36.14:836][476]LogSavePackage: Moving '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/ThirdPersonExampleMap_Auto5F1F9D0584A4CE1BD16160292BBFCA49F.tmp' to '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2021.10.06-13.36.14:840][476]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.052
+[2021.10.06-13.36.14:840][476]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052
+[2021.10.06-13.36.44:578][692]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.10.06-13.37.57:545][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/Follower_BT" FILE="../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_BT.uasset" SILENT=true
+[2021.10.06-13.37.57:548][768]LogSavePackage: Moving '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/Follower_BTBE892D684A9203B3362859967503226F.tmp' to '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_BT.uasset'
+[2021.10.06-13.37.57:549][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/Follower_BB" FILE="../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_BB.uasset" SILENT=true
+[2021.10.06-13.37.57:551][768]LogSavePackage: Moving '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/Follower_BBEB21CBD5406B72041ACA208A34297256.tmp' to '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_BB.uasset'
+[2021.10.06-13.37.57:564][768]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.06-13.37.57:564][768]LogContentValidation: Display: Validating BlackboardData /Game/AI/NPC/Follower_BB.Follower_BB
+[2021.10.06-13.37.57:564][768]LogContentValidation: Display: Validating BehaviorTree /Game/AI/NPC/Follower_BT.Follower_BT
+[2021.10.06-13.38.35:947][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/Follower_BT" FILE="../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_BT.uasset" SILENT=true
+[2021.10.06-13.38.35:950][251]LogSavePackage: Moving '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/Follower_BTA568826C423E78606781C1A1C6927A86.tmp' to '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_BT.uasset'
+[2021.10.06-13.38.35:967][251]AssetCheck: New page: Asset Save: Follower_BT
+[2021.10.06-13.38.35:967][251]LogContentValidation: Display: Validating BehaviorTree /Game/AI/NPC/Follower_BT.Follower_BT
+[2021.10.06-13.38.56:347][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/Follower_BT" FILE="../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_BT.uasset" SILENT=true
+[2021.10.06-13.38.56:351][468]LogSavePackage: Moving '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/Follower_BTBC428CFA46DC6A797D1C11B6E27DC02F.tmp' to '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_BT.uasset'
+[2021.10.06-13.38.56:366][468]AssetCheck: New page: Asset Save: Follower_BT
+[2021.10.06-13.38.56:366][468]LogContentValidation: Display: Validating BehaviorTree /Game/AI/NPC/Follower_BT.Follower_BT
+[2021.10.06-13.40.16:082][903]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/NPC/Follower_AI.Follower_AI
+[2021.10.06-13.40.52:759][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/Follower_AI" FILE="../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_AI.uasset" SILENT=true
+[2021.10.06-13.40.52:763][603]LogSavePackage: Moving '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/Follower_AIFC76703046248B3C342AB2B60E3E221C.tmp' to '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_AI.uasset'
+[2021.10.06-13.40.52:783][603]AssetCheck: New page: Asset Save: Follower_AI
+[2021.10.06-13.40.52:783][603]LogContentValidation: Display: Validating Blueprint /Game/AI/NPC/Follower_AI.Follower_AI
+[2021.10.06-13.41.33:568][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/Follower_AI" FILE="../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_AI.uasset" SILENT=true
+[2021.10.06-13.41.33:572][659]LogSavePackage: Moving '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/Follower_AI0DB375AB46A68848E1C97485518542BB.tmp' to '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_AI.uasset'
+[2021.10.06-13.41.33:587][659]AssetCheck: New page: Asset Save: Follower_AI
+[2021.10.06-13.41.33:587][659]LogContentValidation: Display: Validating Blueprint /Game/AI/NPC/Follower_AI.Follower_AI
+[2021.10.06-13.41.52:858][812]BlueprintLog: New page: Compile Follower_AI
+[2021.10.06-13.41.52:895][812]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.10.06-13.42.31:453][545]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.10.06-13.43.39:280][329]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.10.06-13.43.44:938][656]LogSavePackage: Moving '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/ThirdPersonCharacter9AB7F2A44557EF90B05FAC98C4F4E8E3.tmp' to '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.10.06-13.43.44:958][656]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.10.06-13.43.44:958][656]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.10.06-13.43.46:115][722]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.10.06-13.43.46:164][722]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.10.06-13.44.16:784][978]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.10.06-13.44.16:784][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.06-13.46.15:646][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.10.06-13.46.15:665][381]LogSavePackage: Moving '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/ThirdPersonExampleMap_Auto6892EBCB3424CD05FA78D76B4898B30C0.tmp' to '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2021.10.06-13.46.15:667][381]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.039
+[2021.10.06-13.46.15:667][381]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2021.10.06-13.46.15:667][381]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/NPC/Follower_AI] ([2] browsable assets)...
+[2021.10.06-13.46.15:667][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/NPC/Follower_AI]
+[2021.10.06-13.46.15:671][381]LogSavePackage: Moving '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/Follower_AI_Auto6C116DDF44407C912C987048E2D6AEFE6.tmp' to '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/Autosaves/Game/AI/NPC/Follower_AI_Auto6.uasset'
+[2021.10.06-13.46.15:672][381]LogFileHelpers: Auto-saving content packages took 0.005
+[2021.10.06-13.50.10:854][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NPC/Follower_AI" FILE="../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_AI.uasset" SILENT=true
+[2021.10.06-13.50.10:861][ 71]LogSavePackage: Moving '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Saved/Follower_AI4D6CB4454F9DBEEA60A5BF937A278E83.tmp' to '../../../../../../Users/khusn/Documents/Unreal Projects/AIFollower/AIFollower/Content/AI/NPC/Follower_AI.uasset'
+[2021.10.06-13.50.10:873][ 71]AssetCheck: New page: Asset Save: Follower_AI
+[2021.10.06-13.50.10:873][ 71]LogContentValidation: Display: Validating Blueprint /Game/AI/NPC/Follower_AI.Follower_AI
+[2021.10.06-13.50.27:384][383]BlueprintLog: New page: Compile Follower_AI
+[2021.10.06-13.50.27:421][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.10.06-13.50.39:043][894]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.06-13.50.39:049][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.06-13.50.39:049][894]PIE: New page: PIE session: ThirdPersonExampleMap (6 окт. 2021 г., 19:50:39)
+[2021.10.06-13.50.39:075][894]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.06-13.50.39:097][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021365s)
+[2021.10.06-13.50.39:098][894]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.10.06-13.50.39:098][894]LogPlayLevel: PIE: World Init took: (0.001373s)
+[2021.10.06-13.50.39:098][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022904s)
+[2021.10.06-13.50.39:115][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.10.06-13.50.39:117][894]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.10.06-13.50.39:117][894]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.06-13.50.39:117][894]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.06-13.50.39:117][894]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.06-13.50.39:117][894]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.06-13.50.39:117][894]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.06-13.50.39:117][894]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.06-13.50.39:117][894]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.06-13.50.39:117][894]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.06-13.50.39:118][894]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.06-13.50.39:118][894]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.06-13.50.39:118][894]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.06-13.50.39:118][894]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.06-13.50.39:120][894]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.06-13.50.39:120][894]LogAudioMixer: Display: 1: FrontRight
+[2021.10.06-13.50.39:135][894]LogAudioMixer: Display: Using Audio Device Headphones (Arctis 5 Game)
+[2021.10.06-13.50.39:136][894]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.06-13.50.39:136][894]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.06-13.50.39:136][894]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.06-13.50.39:136][894]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.06-13.50.39:136][894]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.06-13.50.39:136][894]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.06-13.50.39:137][894]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.06-13.50.39:137][894]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.06-13.50.39:137][894]LogInit: FAudioDevice initialized.
+[2021.10.06-13.50.39:138][894]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2021.10.06-13.50.39:147][894]LogLoad: Game class is 'AIFollowerGameMode'
+[2021.10.06-13.50.39:149][894]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.10.06-16.50.39
+[2021.10.06-13.50.39:150][894]LogWorld: Bringing up level for play took: 0.003019
+[2021.10.06-13.50.39:151][894]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.10.06-13.50.39:154][894]PIE: Server logged in
+[2021.10.06-13.50.39:154][894]PIE: Play in editor total start time 0,108 seconds.
+[2021.10.06-13.51.46:748][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.06-13.51.46:748][945]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.06-13.51.46:749][945]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.06-13.51.46:749][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.06-13.51.46:759][945]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.06-13.51.46:762][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.06-13.51.46:776][945]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.06-13.51.46:776][945]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.06-13.51.46:777][945]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.06-13.51.46:779][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.06-13.51.46:782][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.10.06-13.51.46:846][947]LogPlayLevel: Display: Destroying online subsystem :Context_40
